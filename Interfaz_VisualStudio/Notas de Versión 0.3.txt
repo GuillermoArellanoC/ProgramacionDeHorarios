@@ -35,3 +35,5 @@
 - En añadir profesor, solo dejé los tres campos que se solicitan al usar el BACKEND.
 
 - Las pestañas por el momento no se ven del todo bonitas, pero actualmente se puede empezar a hacer las primeras pruebas de implementación con el BACKEND, ese es el propósito de estas primeras versiones de la GUI.
+
+- Hace falta agregar un botón en el menu principal, y corregir algunas pestañas con la nueva versión del Backend.
