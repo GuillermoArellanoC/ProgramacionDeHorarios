@@ -1,0 +1,37 @@
+22/11/2023 11:15 P.M
+
+| Menu Principal |
+
+- Agregada la lógica de los botones del menu principal, ahora reedirigen a sus ventanas correspondientes.
+
+
+| Generar Horarios |
+
+- Agregada la función de abrir el explorador de archivos para agregar un documento CSV
+
+
+| Añadir Profesor |
+
+- Agregado el botón de "AÑADIR"
+
+
+| Editar Materias |
+
+- Agregado el botón de "EDITAR"
+
+
+| Reporte de Estado General del Front End |
+
+- Por el momento todo se encuentra FUNCIONAL, hace falta meter más diseño, y además, los diseños de cada ventana siguen estando muy sujetos a cambios.
+
+- Agregué una opción de añadir un archivo .CSV como se hace dentro del backend.
+
+- Para mostrar los horarios, agregue una tabla con los atributos que se despliegan al hacer la consulta en el BACK. Para el caso de mostrar el horario de una sola aula, agregue un selector donde se encuentran todas las aulas.
+
+- En editar materias, el recuadro blanco que aparece en medio es un listado, ahí se despliegará toda la información de las materias que se pueden modificar, como se ve en el BACKEND.
+
+- El botón y diseño general de la ventana generar horarios, no me agradan aún, pero lo dejaré así por el momento para empezar las pruebas con la implementación de ambos códigos, se acepta cualquier recomendación.
+
+- En añadir profesor, solo dejé los tres campos que se solicitan al usar el BACKEND.
+
+- Las pestañas por el momento no se ven del todo bonitas, pero actualmente se puede empezar a hacer las primeras pruebas de implementación con el BACKEND, ese es el propósito de estas primeras versiones de la GUI.
