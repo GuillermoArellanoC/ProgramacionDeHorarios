@@ -1,0 +1,13 @@
+27/11/2023 18:13 P.M
+
+| Estado General de Back y Front End|
+
+- Ambos se encuentran completamente conectados, hice una pequeña supervisión por cada una de las funciones del back, y todo parece estar funcionando bien :D
+
+| Reporte de Estado General del Front End |
+
+- Agregué todos los avisos de errores cuando el usuario no está usando el programa de la manera correcta.
+
+- Únicamente hace falta la pestaña "Ayuda" en donde se hará un pequeño manual de usuario integrado en el programa.
+
+- Hace falta solo algunos retoques visuales para que el programa se vea aesthetic.
